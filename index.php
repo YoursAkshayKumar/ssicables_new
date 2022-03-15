@@ -107,7 +107,7 @@ include('slider.php'); ?>
 		<h1 class="text-center" style="font-size:25px">Welcome to <b>SSI Cables Pvt. Ltd.</b> </h1>
 		<hr />
 
-		<p class="font24 text-center" style="text-align:justify">Unmatched Quality, Unbeleivable Services
+		<p class="font24 text-center" style="text-align:justify">Unmatched Quality, Unbelievable Services
 		</p>
 
 		<div class="row">
